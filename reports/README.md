@@ -55,7 +55,7 @@ for detailed information about data quality issues that may affect the analysis 
 - Moderate Activity Users: 12 users (36.4%)
 - Low Activity Users: 6 users (18.1%)
 
-<iframe src="https://hahahuy.github.io/google-DA-capstone/user_segments.html" width="100%" height="600px" frameborder="0"></iframe>
+[Click here to view the User Segments Interactive Chart](https://hahahuy.github.io/google-DA-capstone/user_segments.html)
 
 ### Activity Goals and Patterns
 - 32.5% of users regularly achieve their daily step goals
@@ -64,7 +64,7 @@ for detailed information about data quality issues that may affect the analysis 
 
 ![Daily Activity Patterns](figures/daily_patterns.png)
 
-<iframe src="https://hahahuy.github.io/google-DA-capstone/hourly_patterns.html" width="100%" height="600px" frameborder="0"></iframe>
+[Click here to view the Hourly Patterns Interactive Chart](https://hahahuy.github.io/google-DA-capstone/hourly_patterns.html)
 
 ### Sleep and Health Patterns
 - Average sleep duration: 7 hours
