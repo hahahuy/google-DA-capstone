@@ -84,6 +84,10 @@ The detailed analysis results and visualizations can be found in the [reports](.
 - [Data Validation Report](./reports/validation_report.md) - Data quality assessment
 - [Visualizations](./reports/figures/) - Generated plots and charts
 
+Certificate :D
+
+<img width = '650px' src = './reports/figures/certi.jpg'/>
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests.
