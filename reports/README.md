@@ -120,4 +120,4 @@ personalized features and targeted marketing approaches.
 4. Consider collecting additional data points for deeper insights
 
 ---
-Note: Some visualizations are provided as interactive HTML files. To view these, please open the files in your web browser.
+Note: Some visualizations are provided as interactive HTML files. To view them, please open the files in your web browser or click the designated link.
