@@ -85,7 +85,8 @@ The detailed analysis results and visualizations can be found in the [reports](.
 - [Visualizations](./reports/figures/) - Generated plots and charts
 
 Certificate :D
-<img width = '400px' src = './report/figures/certi.jpg'/>
+
+<img width = '400px' src = './reports/figures/certi.jpg'/>
 
 ## Contributing
 
