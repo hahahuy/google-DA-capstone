@@ -86,7 +86,7 @@ The detailed analysis results and visualizations can be found in the [reports](.
 
 Certificate :D
 
-<img width = '400px' src = './reports/figures/certi.jpg'/>
+<img width = '650px' src = './reports/figures/certi.jpg'/>
 
 ## Contributing
 
