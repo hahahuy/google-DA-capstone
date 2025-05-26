@@ -14,7 +14,7 @@ for detailed information about data quality issues that may affect the analysis 
 - Moderate Activity Users: 12 users (36.4%)
 - Low Activity Users: 6 users (18.1%)
 
-![User Segments](figures/user_segments.html)
+<iframe src="https://hahahuy.github.io/google-DA-capstone/user_segments.html" width="100%" height="600px" frameborder="0"></iframe>
 
 ### Activity Goals and Patterns
 - 32.5% of users regularly achieve their daily step goals
@@ -22,7 +22,8 @@ for detailed information about data quality issues that may affect the analysis 
 - Moderate positive correlation (0.59) between steps and calories burned
 
 ![Daily Activity Patterns](figures/daily_patterns.png)
-![Hourly Activity Patterns](figures/hourly_patterns.html)
+
+<iframe src="https://hahahuy.github.io/google-DA-capstone/hourly_patterns.html" width="100%" height="600px" frameborder="0"></iframe>
 
 ### Sleep and Health Patterns
 - Average sleep duration: 7 hours
@@ -54,9 +55,7 @@ The analysis revealed several significant correlations between different metrics
    - Implement achievement sharing and social recognition
 
 ## Interactive Visualizations
-For interactive visualizations, please open the following HTML files in your web browser:
-- [User Segments Interactive View](figures/user_segments.html)
-- [Hourly Activity Patterns Interactive View](figures/hourly_patterns.html)
+The interactive visualizations are embedded directly in the report above. You can interact with them directly in this document.
 
 ## Methodology
 The analysis followed these steps:
